@@ -1,0 +1,6 @@
+resources/
+*.log
+*.tmp
+*.bak
+.DS_Store
+.idea/
