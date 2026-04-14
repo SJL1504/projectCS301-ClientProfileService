@@ -1,3 +1,14 @@
+## Introduction
+This is Client Profile Service that I worked on as part of a group project for a banking CRM system hosted by UBS for a module
+
+There are other services including:
+- agent-admin service
+- notifications service
+- client-ai service
+- authentication service
+- client transactions
+- logging service
+
 ## Features
 
 ### Create Client Profile
