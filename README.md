@@ -8,6 +8,16 @@ There are other services including:
 - authentication service
 - client transactions
 - logging service
+- client acoount service
+
+## credits
+original repository is on privated repository
+team members github users:
+- Varidhi123456
+- YumaTheThird
+- rose-cider
+- geraldloi
+- TJWSMU
 
 ## Features
 
